@@ -1,0 +1,36 @@
+{
+  "name": "glob-mover",
+  "version": "1.0.0",
+  "description": "NodeJS library used to move files and directories using glob",
+  "main": "index.js",
+  "dependencies": {
+    "es6-promisify": "^7.0.0",
+    "glob": "7.1.7",
+    "glob-promise": "4.2.0",
+    "mv": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshmello/glob-mover.git"
+  },
+  "keywords": [
+    "glob",
+    "move",
+    "glob-mover",
+    "move-content",
+    "content",
+    "recursive",
+    "fs",
+    "directory"
+  ],
+  "author": "Josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshmello/glob-mover/issues"
+  },
+  "homepage": "https://github.com/joshmello/glob-mover#readme"
+}
